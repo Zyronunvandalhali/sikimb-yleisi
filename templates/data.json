@@ -1,0 +1,16 @@
+{
+  "hi": {
+    "name": "hi.png",
+    "x": 1152,
+    "y": -163,
+    "width": 135,
+    "height": 135
+  },
+      "thx": {
+    "name": "thx.png",
+    "x": 1212,
+    "y": -723,
+    "width": 172,
+    "height": 103
+  }
+}
