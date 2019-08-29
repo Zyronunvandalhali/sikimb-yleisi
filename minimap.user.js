@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2.6
 // @description  ZyronMap
-// @author       FIXINIT#0878
+// @author       Zyron#6829
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/Zyronunvandalhali/sikimb-yleisi/
