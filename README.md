@@ -1,12 +1,8 @@
-#### TurkeyMap
-Offical Pixelzone.io minimap of TurkeyZone.
-Resmi TurkeyZone minimapi.
+#### ZyronMap
+Offical Pixelzone.io minimap of Zyron.
+Zyron'un resmi minimapi.
 
-Discord: https://discord.io/trzone
-
-Reddit: https://www.reddit.com/r/TurkeyZone/
-
-Facebook: https://www.facebook.com/groups/382054812544217/
+Discord: https://discord.io/vandalism
 
 KURULUM
 
@@ -20,6 +16,6 @@ KURULUM
 
 2. TamperMonkey uzantısını ekledikten sonra alttaki linke tıklayın ve TamperMonkeye yükleyin.
 
-https://raw.githubusercontent.com/pixelfixinit/TurkeyMap/master/minimap.user.js
+https://raw.githubusercontent.com/Zyronunvandalhali/sikimb-yleisi/master/minimap.user.js
 
 3. Oyuna girin ve minimap çalışıyor olacaktır.
